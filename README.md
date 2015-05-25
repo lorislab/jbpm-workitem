@@ -1,1 +1,1 @@
-# jbpm-annotation-workitem
+# jbpm-workitem

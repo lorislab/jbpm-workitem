@@ -1,0 +1,7 @@
+[
+    [
+        "name" : "ProcessServiceWorkItem",
+        "displayName" : "Process Service",
+        "icon" : "ProcessServiceWorkItem.png"
+    ]
+]
